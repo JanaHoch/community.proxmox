@@ -37,3 +37,4 @@ action_groups:
     - proxmox_vm_info
     - proxmox_vnet_info
     - proxmox_zone
+    - proxmox_ipam_info
